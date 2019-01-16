@@ -1,2 +1,2 @@
 # Mathematica-Projects
-Most of these mathematica projects were done in partial fulfillment for the Advanced Multivariable Calculus course at the US Military Academy at West Point
+This repository is for hosting some of the Mathematica projects I completed in partial fulfillment of the Advanced Multivariable Calculus course at the US Military Academy at West Point.
